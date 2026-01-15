@@ -1,5 +1,3 @@
-// cypress/pages/home.page.js
-
 export class HomePage {
     visit() {
       cy.visit('/');
